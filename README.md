@@ -11,5 +11,5 @@ Calculadora capaz de dizer o que é mais rentável ao final de 20 anos: comprar 
 &nbsp;
 
 Como saída, a calculadora resopnderá as seguintes perguntas:
-1. será mais vantajoso comprar o imóvel, ou alugá-lo e colocar o dinheiro em uma aplicação financeira?
+1. será mais vantajoso comprar o imóvel ou alugá-lo e colocar o dinheiro em uma aplicação financeira?
 2. a partir de qual mês se tornará mais vantajoso uma opção ou a outra? *(ou seja, qual o ponto ótimo / de turnover)*
