@@ -96,5 +96,3 @@ def verificacao_turnover(gasto_mensal_aluguel, valor_mensal_rendimento):
     else:
       print('A partir das informações dadas acima, será melhor alugar o imóvel e investir o seu valor em aplicação.')
     return
-
-verificacao_turnover(gasto_mensal_aluguel, valor_mensal_rendimento)
