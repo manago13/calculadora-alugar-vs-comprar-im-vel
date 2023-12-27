@@ -1,13 +1,14 @@
 # calculadora-alugar-vs-comprar-imovel
 Calculadora capaz de dizer o que é mais rentável ao final de 20 anos: comprar ou alugar um imóvel, dado os seguintes valores de entrada:
 
+- período de análise (em anos)
 - aluguel (a.m.)
 - montante disponível para compra do imóvel (valor do imóvel propriamente dito)
 - valorização do imóvel (a.a.)
 - taxa de juros de aluguel (a.a.)
 - taxa de juros aplicação (a.a.)
 
-/n
+&nbsp;
 
 Como saída, a calculadora resopnderá as seguintes perguntas:
 1. será mais vantajoso comprar o imóvel, ou alugá-lo e colocar o dinheiro em uma aplicação financeira?
