@@ -7,8 +7,8 @@ Calculadora capaz de dizer o que é mais rentável ao final de 20 anos: comprar 
 - taxa de juros de aluguel (a.a.)
 - taxa de juros aplicação (a.a.)
 
-/n
+&nbsp;
 
-Como saída, a calculadora resopnderá as seguintes perguntas:
+Como saída, a calculadora responderá as seguintes perguntas:
 1. será mais vantajoso comprar o imóvel, ou alugá-lo e colocar o dinheiro em uma aplicação financeira?
 2. a partir de qual mês se tornará mais vantajoso uma opção ou a outra? *(ou seja, qual o ponto ótimo / de turnover)*
